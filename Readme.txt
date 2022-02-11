@@ -1,4 +1,4 @@
-Term Project for Advances in Object Oriented Programming course at USF
+Term Project for Advances in Object Oriented Programming
 
 Game written in C# that requires player to connect sequential numbers to fill in the 5x5 grid 
 
